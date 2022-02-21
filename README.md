@@ -3,6 +3,6 @@
  Esse programa tem como proposta ser um chat entre uma máquina, o modo de execução
  é dado pela abertura dos códigos e em seguida executa o servidor para logo em seguida
  ser executado o cliente, após isso o programa terá um comportamento de um chat básico
- onde sera solicitado um nome para o usuario e logo abaixo a mensaguem que deseja enviar,
+ onde sera solicitado um nome para o usuario e logo abaixo a mensagem que deseja enviar,
  onde o cliente envia uma mensagem, o servidor recebe e em seguida essa mensagem é enviada e
  mostrada na tela do cliente.
